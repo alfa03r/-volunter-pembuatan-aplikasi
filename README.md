@@ -6,5 +6,5 @@ Silakan gunakan format berikut:<br>
 **\* Muhammad Al Fajar, [[GitHub](https://github.com/alfa03r)].**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Ridho Alfandi, [Github](https://github.com/koplakzs).
+* Ridho Alfandi Ganteng, [Github](https://github.com/koplakzs).
 * Misno Sugianto, [Github](https://github.com/misnosugianto48).
